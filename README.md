@@ -1,4 +1,4 @@
-**# Rag-app**# Freight Policy Assistant — RAG Chatbot
+# Freight Policy Assistant — RAG Chatbot
 
 A Retrieval-Augmented Generation (RAG) application that answers freight and logistics policy questions using a collection of reference documents. Built with Python, LangChain, Pinecone, Google Gemini embeddings, Groq, and Streamlit.
 
